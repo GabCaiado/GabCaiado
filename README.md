@@ -25,23 +25,13 @@ My experience includes building internal tools, automating workflows, integratin
 **DevOps & Tools:** Docker, Jenkins, GitHub Actions, Redis, RabbitMQ, SonarQube, Graylog  
 **AI/ML:** NLP, LLMs, embeddings, semantic search, transformer-based models, custom datasets, model evaluation  
 
-## Projects I like building
-
-I enjoy working on products and systems that solve practical problems, especially:
-
-- Internal platforms that improve operational efficiency
-- Workflow automation tools
-- Backend APIs and scalable service architectures
-- AI and machine learning solutions for real-world applications
-- Data-driven applications for business operations
-- Systems that connect frontend, backend, data, and infrastructure in a clean way
-
 ## A little more about me
 
 - Computer Science student
 - Full Stack Developer
 - Focused on backend engineering, AI-powered applications, system design, and scalable software
-- Based in Manaus, Brazil 🇧🇷
+- Based in Manaus, Brazil
+- I have 5 cats <3
 
 ## How to reach me
 
